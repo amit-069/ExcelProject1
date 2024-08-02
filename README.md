@@ -13,11 +13,14 @@ This project is an annual report for Vrinda Store, created using Microsoft Excel
 
 ## Getting Started
 
-To get started with the annual report, simply open the Excel file (`Vrinda_Store_Annual_Report.xlsx`) in Microsoft Excel.
+To get started with the annual report, simply open the Excel file (`https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq`) in Microsoft Excel.
+## Access the Dashboard
+
+You can view the live dashboard [here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq).
 
 ## Screenshot
 
-![Vrinda Store Annual Report](assets/annual_report_screenshot.png)
+![Vrinda Store Annual Report](https://github.com/amit-069/ExcelProject1/blob/main/Screenshot%202024-08-02%20234511.png)
 
 ## How to Use
 
