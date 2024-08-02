@@ -13,7 +13,7 @@ This project is an annual report for Vrinda Store, created using Microsoft Excel
 
 ## Access the Dashboard
 
-You can view the live dashboard in Microsoft Excel. [here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq).
+You can view the live dashboard in Microsoft Excel. [Click here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=0ddTnR).
 
 ## Screenshot
 
