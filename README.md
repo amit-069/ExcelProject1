@@ -11,12 +11,9 @@ This project is an annual report for Vrinda Store, created using Microsoft Excel
 - **Customer Insights**: Analysis of customer demographics and purchasing behavior.
 - **Data Visualization**: Charts and graphs for easy data interpretation.
 
-## Getting Started
-
-To get started with the annual report, simply open the Excel file (`https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq`) in Microsoft Excel.
 ## Access the Dashboard
 
-You can view the live dashboard [here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq).
+You can view the live dashboard in Microsoft Excel. [here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx1BT6yWtGw?e=U4x9Tq).
 
 ## Screenshot
 
@@ -33,17 +30,9 @@ You can view the live dashboard [here](https://1drv.ms/x/s!AvQAlS2fyeLOiOAXu8_qx
 
 - **Microsoft Excel**: For creating the report and performing data analysis.
 
-## Contributing
-
-If you would like to contribute to this project, please submit suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please contact [eramit144@gmail.com](mailto:eramit144@gmail.com).
 
 ---
 
