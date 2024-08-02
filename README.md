@@ -17,7 +17,7 @@ You can view the live dashboard in Microsoft Excel. [here](https://1drv.ms/x/s!A
 
 ## Screenshot
 
-![Vrinda Store Annual Report](https://github.com/amit-069/ExcelProject1/blob/main/Screenshot%202024-08-02%20234511.png)
+![Vrinda Store Annual Report](https://github.com/amit-069/ExcelProject1/blob/main/Screenshot%202024-08-03%20004530.png)
 
 ## How to Use
 
